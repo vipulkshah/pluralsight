@@ -1,0 +1,252 @@
+Explore Inventory
+View All Offers
+Locate a Dealer
+Search
+Make, model, body style, etc.
+New Audi Vehicles For Sale In The Tri-State Area
+Search Inventory
+
+Year
+ All Years
+ 2018 (7)
+ 2019 (1793)
+ 2020 (3)
+
+Model
+ A3 (203)
+ A4 (1352)
+ A4 allroad (57)
+ A5 (633)
+ A6 (859)
+ A7 (114)
+ A8 (187)
+ e-tron (142)
+ Q3 (703)
+ Q5 (1803)
+ Q7 (1629)
+ Q8 (342)
+ R8 (30)
+ RS 3 (57)
+ RS 5 (149)
+ S3 (38)
+ S4 (149)
+ S5 (196)
+ S7 (1)
+ SQ5 (155)
+ TT (6)
+ TT RS (10)
+ TTS (2)
+
+Color 
+Price 
+Drive Line 
+Transmission 
+City MPG 
+Highway MPG 
+Location 
+Engine 
+Body Style 
+1803 Vehicles matching:
+
+Model: Q5
+ Reset Filters
+
+
+Page 1 of 113Next
+2019 Audi Q5 2.0T Premium Plus SUV
+2019 Audi Q5 2.0T Premium Plus SUV
+Price
+$53,350
+Engine:2.0L TFSI four-cylinder engineTransmission:AutomaticMPG Range:22/27Exterior Color:Ibis white
+Interior Color:Nougat brown / BlackVehicle Status:Dealer OrderedLocation:Paul Miller Audi
+Premium Plus Package, Wheels: 20" 5-Segment-Spoke Design, Cold Weather Package
+Certified 
+
+8220 - 400/mo
+
+51295
+7268
+1250
+42776
+12k mi
+
+rv = 45%
+395
+mf = 
+
+aad logs
+
+scimentors
+
+IPFORM
+
+
+Using Azure AD Graph API to create a User in Azure AD B2C
+Are you using MFA for B2C Users?
+which identity providers using?
+any new openid connect provider?
+customize user interface
+list number of register apps?
+list user flow policies othen than recommneded
+any auth metod in preview intrsted
+list any user attribute other than built in
+custom user attribute
+
+branding and sso
+
+https://hss.humana.com/ITSecurity/HSSOneClick/LaunchHSS.aspx?TARGET=https://slservices.humana.com/intersitetransferservice/OutboundTransfer.aspx?Partnerid=Cornerstone%26Relaystate=%252fdeeplink%252fLaunchTraining.aspx%253flaunchLo%253dfbca69f7-3ccd-47fb-9012-1320d0506bac
+
+Collaborate with any partner using their identities
+Use policies to securely share your apps and services
+self-service app and group management.
+Provide External collaboration settings
+are you using direct federation?
+allow or block b2b from certian domains?
+are you intrsted in collaboration guest users without an invitation link or email?
+are you using dynamice groups for hardening the guest users 
+
+649
+49
+
+how to spot risky users?
+how to configure automated responses to detected suspicious actions related to user identities.
+
+To launch this training, please click here: Launch Training
+Or copy URL : https://hss.humana.com/ITSecurity/HSSOneClick/LaunchHSS.aspx?TARGET=https://slservices.humana.com/intersitetransferservice/OutboundTransfer.aspx?Partnerid=Cornerstone%26Relaystate=%252fdeeplink%252fLaunchTraining.aspx%253flaunchLo%253dfbca69f7-3ccd-47fb-9012-1320d0506bac.  
+You can also access it through your transcript by clicking here: https://hss.humana.com/ITSecurity/HSSOneClick/LaunchHSS.aspx?TARGET=https://slservices.humana.com/intersitetransferservice/OutboundTransfer.aspx?Partnerid=Cornerstone%26Relaystate=%252fdeeplink%252fssodeeplink.aspx%253fmodule%253dtranscript. 
+
+
+
+ 
+
+Candidate Details:
+
+Full Legal Name
+
+ 
+
+Present Location
+
+ 
+
+Willingness to relocate
+
+ 
+
+Phone Number
+
+ 
+
+E-mail ID
+
+ 
+
+Skype ID
+
+ 
+
+Total years of experience
+
+ 
+
+Highest Qualification / Passing Year
+
+ 
+
+University 
+
+ 
+
+ 
+
+Visa & Work Authorization :
+
+ 
+
+Interview & Joining details
+
+Availability to join
+
+ 
+
+Interview or offer in process
+
+ 
+
+Interview Availability time slot 1 & 2
+
+
+remote
+flexibilty 
+deadline to start and finish
+phase 2 - differs betn toolkit and ha cluster. which one is correct
+
+
+With Azure AD Identity Protection, you are able to:
+
+    Get a consolidated view of flagged users and risk events detected using machine learning algorithms
+    Set risk-based Conditional Access policies to automatically protect your users
+    Improve security posture by acting on vulnerabilities
+
+
+
+Enable Azure Active Directory Identity Protection
+
+https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/enable
+
+Configure the Azure Multi-Factor Authentication registration policy
+https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-mfa-policy
+
+
+Configure the sign-in risk policy
+https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-sign-in-risk-policy
+
+Configure the user risk policy
+https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-user-risk-policy
+
+Unblocking suspicious sign-ins or accounts at risk by Exclude from policy 
+
+customize seucrity overview dashboard
+
+https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/security-overview
+
+Investigate risky sign-ins and users report
+
+https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-investigate-risk
+
+
+
+The risk event types Azure AD detects include:
+
+Users with leaked credentials: This is done by comparing the credentials, monitoring public and dark web websites, and working with researchers, law enforcement, and security teams at Microsoft and other trusted sources.
+Sign-ins from anonymous IP addresses: The service checks sign-ins in real time from an anonymous IP address (for example, Tor browser, anonymizer VPNs). These IP addresses are typically used by attackers who want to hide their login telemetry (IP address, location, device, etc.) for potentially malicious intent.
+Impossible travel to atypical locations: This is done with a service that identCJVPS9352Pifies two sign-ins originating from geographically distant locations, where at least one of the locations may also be atypical for the user, given past behavior. The service actually calculates the time it takes to travel between the two locations and how it would be impossible to be in those two locations.
+
+The service ignores obvious "false positives" contributing to the impossible travel conditions, such as VPNs and locations regularly used by other users in the organization. It takes two weeks for the system to learn the user�s behavior.
+Sign-ins from unfamiliar locations and from IP addresses with suspicious activity: This is done in real time and is best when used with modern authentication and where basic authentication is disabled.
+Sign-ins from infected devices: These are monitored and blocked.
+
+
+
+For quick and easy access to Azure AD Identity Protection, pin it to your dashboard
+ 
+
+ The vast majority of security breaches take place when attackers gain access to an environment by stealing a user�s identity. 
+
+ach risk detection that has been detected for a sign-in of a user contributes to a logical concept called risky sign-in. A risky sign-in is an indicator for a sign-in attempt that might not have been performed by the legitimate owner of a user account.
+
+Investigate risky sign-ins and users report							
+Risk: 
+Insight into risky environment
+
+Recommendations: 
+Using the risky sign-ins, risky users, and risk detections reports we can investigate and gain insight into risk in our environment. With the ability to filter and sort the risky sign-ins, users and detections, we can better understand potential intrusion in our organizatio
+
+https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-investigate-risk
+09012010005640
+CJVPS9352P
+
+ipkits/securecloudinsights
+
+
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-mfasettings
